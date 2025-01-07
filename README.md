@@ -1,6 +1,6 @@
 # Frontend for Image to WebP Converter API
 
-Este repositório contém o front-end para a **Image to WebP Converter API**. A aplicação permite que os usuários façam upload de imagens e as convertam para o formato **WebP** de forma fácil e rápida, utilizando a API que você pode encontrar no [repositório da API](https://github.com/usuario/image-to-webp-converter-api).
+Este repositório contém o front-end para a **Image to WebP Converter API**. A aplicação permite que os usuários façam upload de imagens e as convertam para o formato **WebP** de forma fácil e rápida, utilizando a API que você pode encontrar no [repositório da API](https://github.com/christopherfc/Image-to-WebP-Converter-API).
 
 ## Como funciona
 
@@ -16,3 +16,11 @@ Para rodar o front-end localmente, basta seguir os seguintes passos:
 2. Instale as dependências:
    ```bash
    npm install
+3. Execute a aplicação:
+   ```bash
+   npm start
+A aplicação estará disponível em http://localhost:3000.
+## Requisitos
+- Node.js
+- React
+- API Image to WebP Converter rodando em http://localhost:3000
