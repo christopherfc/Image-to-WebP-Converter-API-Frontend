@@ -1,0 +1,62 @@
+.converter-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  .image-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-bottom: 20px;
+  }
+  
+  .file-input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
+  .convert-button {
+    padding: 12px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .convert-button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  
+  .convert-button:hover {
+    background-color: #45a049;
+  }
+  
+  .error-message {
+    color: #d9534f;
+    margin-top: 10px;
+  }
+  
+  .download-container {
+    margin-top: 20px;
+  }
+  
+  .download-link {
+    color: #4caf50;
+    font-size: 1.2rem;
+    text-decoration: none;
+  }
+  
+  .download-link:hover {
+    text-decoration: underline;
+  }
+  
