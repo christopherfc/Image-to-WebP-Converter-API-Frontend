@@ -21,14 +21,12 @@ Para rodar o front-end localmente, basta seguir os seguintes passos:
    npm start
 A aplicação estará disponível em http://localhost:3000.
 
----
 
 ## Requisitos
 - Node.js
 - React
 - API Image to WebP Converter rodando em http://localhost:3000
 
----
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests para melhorias ou correções.
